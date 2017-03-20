@@ -1,0 +1,14 @@
+{
+    "name": "corazzi/laranalysis",
+    "description": "Analyse your Laravel installation, including packages, dependencies, configuration, and the server environment",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sacha Corazzi",
+            "email": "sacha.corazzi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
